@@ -1,2 +1,2 @@
-# Calculator
-Java Based Application
+# Java
+Java Based Applications
